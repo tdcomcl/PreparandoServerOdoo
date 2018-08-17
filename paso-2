@@ -1,0 +1,5 @@
+# !/bin/bash
+echo -e "descargando e installdo script odoo 11"
+sudo wget https://raw.githubusercontent.com/Yenthe666/InstallScript/11.0/odoo_install.sh
+sudo chmod +x odoo_install.sh
+sudo ./odoo_install.sh
