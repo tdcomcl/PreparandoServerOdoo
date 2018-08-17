@@ -17,6 +17,3 @@ sudo apt-get install node-less -y
 sudo apt-get install python-gevent -y
 sudo apt-get install libssl-dev libxml2-dev libxmlsec1-dev build-essential libssl-dev libffi-dev python3-dev python-suds swig python-dev python-cffi libxml2-dev libxslt1-dev libssl-dev python-lxml python-cryptography python-openssl python-certifi python-defusedxml python3-pip wget -y
 sudo apt-get install python3-pip -y
-sleep 3s
-
-
